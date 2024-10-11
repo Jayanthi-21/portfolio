@@ -10,7 +10,7 @@ const navbarContent = `
             </svg>
         </button>
         <div id="nav-links" class="hidden md:flex space-x-4">
-            <a href="home.html" class="text-xl  hover:text-blue-500">Home</a>
+            <a href="index.html" class="text-xl  hover:text-blue-500">Home</a>
             <a href="about.html" class="text-xl hover:text-blue-500">About</a>
             <a href="skills.html" class="text-xl hover:text-blue-500">Skills</a>
             <a href="experience.html" class="text-xl hover:text-blue-500">Experience</a>
@@ -19,7 +19,7 @@ const navbarContent = `
         </div>
     </div>
     <div id="mobile-nav" class="hidden md:hidden flex flex-col space-y-2 p-4">
-        <a href="home.html" class="text-xl hover:text-blue-500">Home</a>
+        <a href="index.html" class="text-xl hover:text-blue-500">Home</a>
         <a href="about.html" class="text-xl hover:text-blue-500">About</a>
         <a href="skills.html" class="text-xl hover:text-blue-500">Skills</a>
         <a href="experience.html" class="text-xl hover:text-blue-500">Experience</a>
